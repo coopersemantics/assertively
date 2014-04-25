@@ -5,6 +5,9 @@
 "use strict";
 
 var assertively = require("../");
+
+// npm install timethat
+
 var timethat = require("timethat");
 
 // Extending Assertively's __proto__
