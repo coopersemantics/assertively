@@ -1,4 +1,4 @@
-# assertively.js
+# assertively.js [![Build Status](https://secure.travis-ci.org/coopersemantics/assertively.png?branch=master)](https://travis-ci.org/coopersemantics/assertively)
 
 ## What's required
 
