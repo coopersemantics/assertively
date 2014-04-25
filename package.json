@@ -3,6 +3,18 @@
   "title": "assertively.js",
   "version": "0.0.1",
   "description": "JavaScript test framework for node.js and the browser.",
+  "author": "coopersemantics",
+  "homepage": "https://github.com/coopersemantics/assertively",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coopersemantics/assertively"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/coopersemantics/assertively/blob/master/MIT-LICENSE.txt"
+    }
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
