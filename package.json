@@ -1,0 +1,14 @@
+{
+  "name": "assertively",
+  "title": "assertively.js",
+  "version": "0.0.1",
+  "description": "JavaScript test framework for node.js and the browser.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coopersemantics/assertively"
+  },
+  "devDependencies": {
+    "deep-equal": "0.2.1"
+  }
+}
