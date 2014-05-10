@@ -1,6 +1,6 @@
 # assertively.js [![Build Status](https://secure.travis-ci.org/coopersemantics/assertively.png?branch=master)](https://travis-ci.org/coopersemantics/assertively)
 
-## What's required
+## What's Required
 
 assertively.js requires [git](http://git-scm.com/downloads) and [Node.js](http://nodejs.org/download/) before proceeding.
 
@@ -20,7 +20,7 @@ $ {sudo} npm install -g browserify
 $ npm install
 ```
 
-## Compiling client code
+## Compiling Client Code
 
 ```bash
 # Standard option
